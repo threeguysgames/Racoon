@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapEditor", "MapEditor\MapEditor.csproj", "{98A6491F-5C1E-4801-828F-70876DE25147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterEditor", "CharacterEditor\CharacterEditor.csproj", "{968A7C12-0481-43D4-8ECA-375CD0504007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextLib", "TextLib\TextLib.csproj", "{DF284FE6-C90B-4257-97ED-F387E4EA8CD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPhysics", "PPhysics\PPhysics.csproj", "{EDA11C0A-AE9E-41B4-A19B-C067A97BDF9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "GameEngineTest\Game.csproj", "{1AE18C0E-A13E-4FAC-AEE8-EC4B84000CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98A6491F-5C1E-4801-828F-70876DE25147}.Debug|x86.ActiveCfg = Debug|x86
+		{98A6491F-5C1E-4801-828F-70876DE25147}.Debug|x86.Build.0 = Debug|x86
+		{98A6491F-5C1E-4801-828F-70876DE25147}.Release|x86.ActiveCfg = Release|x86
+		{98A6491F-5C1E-4801-828F-70876DE25147}.Release|x86.Build.0 = Release|x86
+		{968A7C12-0481-43D4-8ECA-375CD0504007}.Debug|x86.ActiveCfg = Debug|x86
+		{968A7C12-0481-43D4-8ECA-375CD0504007}.Debug|x86.Build.0 = Debug|x86
+		{968A7C12-0481-43D4-8ECA-375CD0504007}.Release|x86.ActiveCfg = Release|x86
+		{968A7C12-0481-43D4-8ECA-375CD0504007}.Release|x86.Build.0 = Release|x86
+		{DF284FE6-C90B-4257-97ED-F387E4EA8CD7}.Debug|x86.ActiveCfg = Debug|x86
+		{DF284FE6-C90B-4257-97ED-F387E4EA8CD7}.Debug|x86.Build.0 = Debug|x86
+		{DF284FE6-C90B-4257-97ED-F387E4EA8CD7}.Release|x86.ActiveCfg = Release|x86
+		{DF284FE6-C90B-4257-97ED-F387E4EA8CD7}.Release|x86.Build.0 = Release|x86
+		{EDA11C0A-AE9E-41B4-A19B-C067A97BDF9E}.Debug|x86.ActiveCfg = Debug|x86
+		{EDA11C0A-AE9E-41B4-A19B-C067A97BDF9E}.Debug|x86.Build.0 = Debug|x86
+		{EDA11C0A-AE9E-41B4-A19B-C067A97BDF9E}.Release|x86.ActiveCfg = Release|x86
+		{EDA11C0A-AE9E-41B4-A19B-C067A97BDF9E}.Release|x86.Build.0 = Release|x86
+		{1AE18C0E-A13E-4FAC-AEE8-EC4B84000CEF}.Debug|x86.ActiveCfg = Debug|x86
+		{1AE18C0E-A13E-4FAC-AEE8-EC4B84000CEF}.Debug|x86.Build.0 = Debug|x86
+		{1AE18C0E-A13E-4FAC-AEE8-EC4B84000CEF}.Release|x86.ActiveCfg = Release|x86
+		{1AE18C0E-A13E-4FAC-AEE8-EC4B84000CEF}.Release|x86.Build.0 = Release|x86
+		{994B32F4-8A47-49E8-A166-7D806402316B}.Debug|x86.ActiveCfg = Debug|x86
+		{994B32F4-8A47-49E8-A166-7D806402316B}.Release|x86.ActiveCfg = Release|x86
+		{4B251BDE-DF4F-402D-83C2-AF6E0077622C}.Debug|x86.ActiveCfg = Debug|x86
+		{4B251BDE-DF4F-402D-83C2-AF6E0077622C}.Release|x86.ActiveCfg = Release|x86
+		{62BE70FB-7BCF-4C38-A76D-26216206CFED}.Debug|x86.ActiveCfg = Debug|x86
+		{62BE70FB-7BCF-4C38-A76D-26216206CFED}.Release|x86.ActiveCfg = Release|x86
+		{8D144163-09E9-4E7E-A2B9-04FC3C29FE79}.Debug|x86.ActiveCfg = Debug|x86
+		{8D144163-09E9-4E7E-A2B9-04FC3C29FE79}.Release|x86.ActiveCfg = Release|x86
+		{CA73E913-CB6A-4E0F-AA8D-1DE7CAFA474C}.Debug|x86.ActiveCfg = Debug|x86
+		{CA73E913-CB6A-4E0F-AA8D-1DE7CAFA474C}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\ZombieSmashers_Ch06\TextLib\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Phillip\Documents\Visual Studio 2008\Projects\GameEngineTest\TextLib\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\GameEngineTest\TextLib\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\GameEngineTest\TextLib\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\GameEngineTest\TextLib\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GameEngineTest\TextLib\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programming Collection\XNA Game\GameEngineTest\TextLib\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programming Collection\XNA Game\GameEngineTest\TextLib\Content\obj\x86\Debug\ResolveAssemblyReference.cache

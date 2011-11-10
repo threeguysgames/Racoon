@@ -1,0 +1,7 @@
+C:\Users\Phillip\Documents\Visual Studio 2008\Projects\GameEngineTest\MapEditor\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\GameEngineTest\MapEditor\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\GameEngineTest\MapEditor\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\GameEngineTest\MapEditor\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GameEngineTest\MapEditor\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programming Collection\XNA Game\GameEngineTest\MapEditor\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programming Collection\XNA Game\GameEngineTest\MapEditor\Content\obj\x86\Debug\ResolveAssemblyReference.cache

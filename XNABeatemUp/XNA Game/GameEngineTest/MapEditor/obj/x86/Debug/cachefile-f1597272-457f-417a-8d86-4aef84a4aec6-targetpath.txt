@@ -1,0 +1,6 @@
+Content\Fonts\Arial.xnb
+Content\gfx\1x1.xnb
+Content\gfx\maps\maps1.xnb
+Content\gfx\cursor.xnb
+Content\gfx\1x1.bmp
+Content\gfx\texturesDefs.mdx
