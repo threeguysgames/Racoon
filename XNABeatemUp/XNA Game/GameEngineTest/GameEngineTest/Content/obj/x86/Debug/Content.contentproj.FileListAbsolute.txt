@@ -1,7 +1,0 @@
-H:\GameEngineTest\GameEngineTest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Phillip\Documents\Visual Studio 2008\Projects\GameEngineTest\GameEngineTest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
-F:\GameEngineTest\GameEngineTest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
-I:\GameEngineTest\GameEngineTest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
-E:\GameEngineTest\GameEngineTest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
-G:\Programming Collection\XNA Game\GameEngineTest\GameEngineTest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
-F:\Programming Collection\XNA Game\GameEngineTest\GameEngineTest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
